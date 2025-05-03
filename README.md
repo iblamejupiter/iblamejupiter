@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer who specializes in **hi
 ## 📦 Featured Project: Apex Assist
 
 Apex Assist is a Chrome extension that helps streamline your productivity and enhance your browsing experience.  
-[👉 Check it out here](https://github.com/Bzzimmy/apex-assist)
+[👉 Check it out here](https://github.com/iblamejupiter/Apex-Learning-Hack)
 
 ![Apex Assist Preview](https://raw.githubusercontent.com/Bzzimmy/apex-assist/main/images/preview.png) <!-- update path if needed -->
 
@@ -37,8 +37,8 @@ Apex Assist is a Chrome extension that helps streamline your productivity and en
 ## 📫 Let's Connect
 
 - 💬 Discord: `@bzzimmy`
-- 📷 Instagram: [@your_instagram_here](https://instagram.com/)
-- 🎥 TikTok: [@your_tiktok_here](https://tiktok.com/)
+- 📷 Instagram: [@Bzzimmy](https://instagram.com/bzzimmy)
+- 🎥 TikTok: [@Bzzimmy](https://tiktok.com/bzzimmy)
 - 🌐 Portfolio: Coming soon!
 
 ---
